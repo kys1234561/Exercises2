@@ -6,7 +6,7 @@ def str_reverse(str):
 
 
 def str_reverse2(str):
-    print(str[::-1])
+    print(str[::-1])#等价于print(str[-1:-7:-1])
 str = "string"
-str_reverse(str)
-str_reverse2(str)
+#str_reverse(str)
+#str_reverse2(str)
